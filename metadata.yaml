@@ -1,0 +1,37 @@
+_repo: The-Three-Heron-s-Feathers_34409
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2010-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34409'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Poetry -- Periodicals'
+- !lcsh 'Literature -- Periodicals'
+tableOfContents: 'Poetry and fiction: The three heron''s feathers / Hermann Sudermann.
+  Marah of Shadowtown / Anne Throop. Dies irae / William Mountain -- Appreciations
+  and essays: George Meredith on the source of destiny / Emily G. Hooker. The tragedy
+  of Ophelia / David A. McKnight. Clews to Emerson''s mystic verse (third paper) /
+  William Sloane Kennedy. A defence of Browning''s later work / Helen A. Clarke --
+  School of literature: Glimpses of present-day poets -- Reviews: ''Songs from the
+  ghetto'' and ''A vision of Hellas'' / Harriott S. Olive. Col. Higginson''s ''Contemporaries''
+  and Mrs. Howe''s ''Reminiscences'' / Helen Tracy Porter -- Life and letters: The
+  modern unrest in nations, markets and minds. Its portent. Goethe''s Iphigenia at
+  Harvard / Harriott S. Olive. Is Browning a legitimate member of the Victorian School?
+  / Mary M. Cohen.'
+title: 'Poet-Lore: A Quarterly Magazine of Letters. April, May, June, 1900'
+url: http://www.gutenberg.org/ebooks/34409
